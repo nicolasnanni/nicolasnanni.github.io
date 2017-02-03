@@ -315,8 +315,8 @@
             }
           },
           "title": "A Little Bit About Me&nbsp;",
-          "text": "When i was the age of 8 i got my first Nintendo DS. I was playing Pokemon and i was in love with all of the designs of the little creatures  thenon a random day while playing  i thought to my self i want to do that one day.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content7-5\" data-toolbar=\"-mbrBtnMove\">Continued</a>"
+          "text": "when i was the age of 8 i got my first Nintendo DS. I was playing Pokemon and i was in love with all of the designs of the little creatures  then on a random day while playing  i thought to my self i want to do that one day.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Home #content7-5\" data-toolbar=\"-mbrBtnMove\">Continued</a>"
         },
         {
           "_inherit": "features4",
