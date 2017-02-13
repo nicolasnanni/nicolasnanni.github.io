@@ -533,12 +533,18 @@ h6,
 #menu-4 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box5-9 P {
+  text-align: left;
+}
 #features7-8 .card-subtitle {
   color: #bcbcbc;
 }
 #features7-8 .iconbox {
   background-color: #c0a375;
   border-color: #c0a375;
+}
+#features7-8 P {
+  text-align: center;
 }
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
