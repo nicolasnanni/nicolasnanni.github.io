@@ -327,7 +327,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/my-face-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/profile-pic-for-website-1400x1400.png",
               "link": "",
               "alt": "",
               "title": "",
