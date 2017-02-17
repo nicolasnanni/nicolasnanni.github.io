@@ -533,6 +533,9 @@ h6,
 #menu-4 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box5-9 P {
+  text-align: left;
+}
 #features7-8 .card-subtitle {
   color: #bcbcbc;
 }
