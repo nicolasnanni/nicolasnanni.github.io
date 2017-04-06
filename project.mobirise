@@ -542,7 +542,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=KYsMNoxrMs0\" data-toolbar=\"-mbrBtnMove\">A Video About Me<br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=KYsMNoxrMs0\" data-toolbar=\"-mbrBtnMove\">A Video About Me<br></a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=KYsMNoxrMs0\" data-toolbar=\"-mbrBtnMove\">Believer Music Video Remake</a> "
         },
         {
           "_inherit": "social-buttons2",
