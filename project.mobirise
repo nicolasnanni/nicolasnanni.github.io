@@ -969,7 +969,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/reproduction-of-piccaso-master-piece-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/reproduction-of-piccaso-master-piece-2000x2000.jpg",
                 "caption": "Reproduction of Piccaso Masterpiece",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -1030,6 +1030,16 @@
                 "image": "@PROJECT_PATH@/assets/images/faces-poster-2000x2000.jpg",
                 "caption": "Faces Poster For Theater Show",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/reproduction-of-avengers-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/reproduction-of-avengers-2000x2000.jpg",
+                "caption": "Reproduction of Piccaso Masterpiece",
+                "active": true
               }
             ],
             "spacing": "1",
