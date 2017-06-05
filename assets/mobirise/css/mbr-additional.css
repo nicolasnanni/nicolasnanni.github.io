@@ -482,6 +482,9 @@ h6,
   background-color: #c0a375;
   border-color: #c0a375;
 }
+#content6-15 DIV {
+  text-align: center;
+}
 #menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -668,6 +671,9 @@ h6,
 #menu-c .link[aria-expanded="true"],
 #menu-c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#gallery2-e .mbr-gallery-item > div > span {
+  text-align: center;
 }
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
